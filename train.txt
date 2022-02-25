@@ -1,0 +1,2440 @@
+red	B-CRP
+apple	I-CRP
+disease	B-PRD
+
+Zinger	O
+crop	O
+
+Zinc	O
+and	O
+sulphur	O
+will	O
+be	O
+found	B-PRD
+
+Yres	O
+ful	O
+
+Your	O
+products	O
+and	O
+benefits	B-PRD
+at	O
+this	O
+stage	O
+
+You	O
+have	O
+no	O
+Facebook	O
+page	O
+
+you	O
+can	O
+share	B-PRD
+about	O
+pomegranate	B-CRP
+crop	O
+diseases	B-PRD
+and	O
+fertilizer	B-PRD
+
+You	O
+can	O
+get	O
+medicineon	B-PRD
+it	O
+And	O
+the	O
+price	B-PRD
+can	O
+be	O
+known	B-PRD
+
+You	O
+can	O
+apply	B-PRD
+onions	B-CRP
+and	O
+radish	O
+essays	O
+this	O
+season	B-PRD
+now	O
+
+Yes	O
+
+Yellow	O
+mosaic	O
+virus	O
+black	O
+gram	O
+crop	O
+who	O
+control	B-PRD
+it	O
+
+Yalekosu	O
+
+Write	B-PRD
+to	O
+know	O
+
+Would	O
+it	O
+be	O
+okay	O
+if	O
+basta	O
+was	O
+sprayed	B-PRD
+with	O
+a	O
+pesticide	B-PRD
+in	O
+a	O
+crop	O
+with	O
+a	O
+cotton	B-CRP
+for	O
+three	O
+days	O
+
+With	O
+what	O
+to	O
+treat	B-PRD
+pea	O
+seeds	B-CRP
+
+Will	O
+you	O
+test	B-PRD
+the	O
+soil	O
+for	O
+the	O
+tomato	B-CRP
+crop	O
+from	O
+your	O
+organization	O
+
+Will	O
+you	O
+get	B-PRD
+to	O
+know	O
+about	O
+the	O
+stobiri	B-CRP
+crop	O
+
+Will	O
+the	O
+paste	O
+be	O
+signed	O
+in	O
+the	O
+attack	B-PRD
+of	O
+majra	O
+insects	O
+
+Why	O
+
+Why	O
+leaves	B-PRD
+burn	B-PRD
+colour	O
+somewhere	O
+
+Why	O
+is	O
+the	O
+mep	O
+not	O
+running	B-PRD
+
+Why	O
+did	O
+I	O
+not	O
+install	B-PRD
+app	O
+so	O
+many	O
+times	O
+that	O
+I	O
+otp	O
+to	O
+login	O
+sir	O
+
+Why	O
+cotton	B-CRP
+does	O
+nt	O
+add	O
+up	O
+
+Why	O
+ca	O
+nt	O
+you	O
+give	B-PRD
+the	O
+crop	O
+description	O
+
+White	O
+fly	B-PRD
+control	B-PRD
+
+Which	O
+spray	B-PRD
+for	O
+downey	B-PRD
+in	O
+cucumber	B-CRP
+
+Which	O
+product	O
+should	O
+be	O
+used	B-PRD
+in	O
+wheat	B-CRP
+crop	O
+
+Which	O
+product	O
+can	O
+be	O
+used	O
+to	O
+prevent	O
+blasphemy	O
+in	O
+mercury	O
+
+Which	O
+pesticide	B-PRD
+should	O
+be	O
+initially	O
+inserted	B-PRD
+into	O
+soybeans	B-CRP
+
+Which	O
+one	O
+is	O
+used	O
+sugarcane	O
+camicales	B-PRD
+
+Which	O
+medicine	B-PRD
+would	O
+be	O
+advisable	O
+to	O
+put	O
+in	O
+mhow	O
+
+Which	O
+medicine	B-PRD
+to	O
+add	O
+to	O
+garlic	B-CRP
+after	O
+50	O
+days	O
+
+Which	O
+medicine	B-PRD
+should	O
+be	O
+used	B-PRD
+to	O
+prevent	B-PRD
+bacteria	I-PRD
+in	O
+pomegranate	B-CRP
+
+Which	O
+medicine	B-PRD
+saith	O
+garlic	B-CRP
+
+Which	O
+is	O
+the	O
+product	O
+for	O
+sercosphora	B-CRP
+
+Which	O
+house	O
+should	O
+be	O
+sined	O
+to	O
+remove	B-PRD
+the	O
+trichsa	O
+for	O
+chillies	B-CRP
+
+Which	O
+fungicides	B-PRD
+should	O
+be	O
+used	B-PRD
+in	O
+bij	O
+udbadana	O
+onion	B-CRP
+
+Which	O
+ausadi	O
+spray	B-PRD
+should	O
+be	O
+done	O
+to	O
+get	O
+the	O
+best	O
+flavor	O
+for	O
+Arabica	B-CRP
+coffee	B-CRP
+
+Whether	O
+my	O
+corn	B-CRP
+is	O
+grown	B-PRD
+weedis	O
+is	O
+of	O
+any	O
+use	B-PRD
+
+When	O
+to	O
+spray	B-PRD
+cotton	B-CRP
+crop	O
+first	O
+...	O
+
+When	O
+to	O
+castor	O
+
+When	O
+is	O
+cutting	B-PRD
+given	B-PRD
+in	O
+pomegranate	B-CRP
+
+When	O
+did	O
+you	O
+get	B-PRD
+in	O
+that	O
+garden	O
+
+When	O
+can	O
+empty	O
+pilover	O
+farming	B-PRD
+be	O
+grown	B-PRD
+
+Wheat	B-CRP
+seed	I-CRP
+will	O
+remain	O
+uncooked	B-PRD
+
+wheat	B-CRP
+happy	B-PRD
+
+WhatsApp	O
+number	O
+to	O
+put	B-PRD
+photos	O
+of	O
+pomegranate	B-CRP
+fruits	B-CRP
+plants	B-CRP
+
+What	O
+s	O
+the	O
+weather	B-PRD
+like	O
+
+What	O
+to	O
+do	B-PRD
+with	O
+the	O
+trap	O
+rotten	O
+in	O
+the	O
+pot	O
+
+What	O
+to	O
+do	O
+to	O
+get	B-PRD
+eggplant	B-CRP
+yield	O
+
+What	O
+to	O
+do	O
+to	O
+buy	B-PRD
+BuyBuyP	B-PRD
+products	O
+
+What	O
+to	O
+do	O
+to	O
+add	O
+the	O
+crop	O
+
+What	O
+to	O
+do	O
+to	O
+add	B-PRD
+crops	O
+
+What	O
+to	O
+do	O
+if	O
+the	O
+leaves	O
+of	O
+the	O
+cucumber	B-CRP
+tree	O
+are	O
+turning	B-PRD
+yellow	O
+
+What	O
+to	O
+do	O
+if	O
+the	O
+chilli	B-CRP
+is	O
+inthe	O
+disease	B-PRD
+
+What	O
+to	O
+do	O
+if	O
+a	O
+crop	O
+other	O
+than	O
+tomatoes	B-CRP
+is	O
+not	O
+set	B-PRD
+
+What	O
+to	O
+do	O
+for	O
+thirips	O
+side	O
+growth	B-PRD
+in	O
+cotton	B-CRP
+
+What	O
+to	O
+do	O
+for	O
+Phytothora	O
+fungus	O
+
+What	O
+to	O
+do	O
+at	O
+the	O
+age	O
+of	O
+25	O
+days	O
+of	O
+garlic	B-CRP
+
+What	O
+to	O
+add	O
+to	O
+1121	O
+paddy	O
+in	O
+20	O
+days	O
+
+What	O
+spray	B-PRD
+should	O
+be	O
+sprayed	B-PRD
+on	O
+the	O
+cotton	B-CRP
+
+What	O
+should	O
+be	O
+the	O
+third	B-PRD
+spray	I-PRD
+for	O
+soyabean	B-CRP
+
+What	O
+should	O
+be	O
+the	O
+first	B-PRD
+spray	I-PRD
+on	O
+soyabean	B-CRP
+crop	O
+
+What	O
+should	O
+be	O
+the	O
+first	B-PRD
+spray	I-PRD
+on	O
+Cotton	B-CRP
+
+What	O
+should	O
+be	O
+sprayed	B-PRD
+in	O
+soyabean	B-CRP
+crop	O
+conditions	B-PRD
+
+What	O
+should	O
+be	O
+done	O
+to	O
+add	B-PRD
+bitter	O
+gourd	O
+crop	O
+to	O
+the	O
+field	O
+
+What	O
+product	O
+Available	O
+for	O
+flower	B-CRP
+farming	B-PRD
+
+What	O
+medicines	B-PRD
+should	O
+you	O
+hit	B-PRD
+in	O
+our	O
+garden	O
+
+What	O
+medicines	B-PRD
+should	O
+be	O
+sprayed	B-PRD
+for	O
+groundnut	B-CRP
+mother	O
+sukara	O
+
+What	O
+medicine	B-PRD
+to	O
+spray	B-PRD
+in	O
+soyabean	B-CRP
+for	O
+Whaitflay	O
+
+What	O
+medicine	O
+can	O
+be	O
+given	B-PRD
+to	O
+the	O
+worm	B-PRD
+in	O
+jasmine	B-CRP
+plant	B-CRP
+
+What	O
+manure	O
+should	O
+be	O
+applied	B-PRD
+to	O
+the	O
+60-day	O
+groundnut	B-CRP
+crop	O
+
+What	O
+is	O
+the	O
+spray	B-PRD
+in	O
+virus	O
+
+What	O
+is	O
+the	O
+price	O
+
+What	O
+is	O
+the	O
+medicine	B-PRD
+for	O
+smallpox	O
+in	O
+potatoes	B-CRP
+
+What	O
+is	O
+the	O
+drug	O
+spray	B-PRD
+on	O
+cotton	B-CRP
+
+What	O
+is	O
+the	O
+benefit	O
+of	O
+this	O
+app	O
+
+What	O
+fungicides	B-PRD
+should	O
+be	O
+used	B-PRD
+to	O
+prevent	O
+the	O
+rot	O
+of	O
+potal	O
+fruits	B-CRP
+
+What	O
+fertilizers	B-PRD
+should	O
+be	O
+added	O
+to	O
+the	O
+wheat	B-CRP
+crop	O
+and	O
+at	O
+what	O
+time	O
+
+What	O
+disease	B-PRD
+is	O
+potato	B-CRP
+
+What	O
+about	O
+ground	B-CRP
+nut	I-CRP
+Mango	B-CRP
+gardens	O
+
+We	O
+ll	O
+get	B-PRD
+medicine	B-PRD
+or	O
+said	O
+on	O
+
+Weeds	B-PRD
+in	O
+cotton	B-CRP
+
+Weather	B-PRD
+forecast	B-PRD
+
+We	O
+required	B-PRD
+potato	B-CRP
+farming	B-PRD
+process	B-PRD
+chart	O
+
+We	O
+r	O
+foming	B-PRD
+anapa	O
+but	O
+we	O
+didnot	O
+get	B-PRD
+opcetion	O
+to	O
+add	O
+our	O
+frme	O
+
+We	O
+have	O
+planted	B-PRD
+a	O
+big	O
+pumpkin	B-CRP
+crop	O
+but	O
+option	O
+lo	O
+how	O
+
+We	O
+grow	B-PRD
+mostly	O
+corn	B-CRP
+in	O
+this	O
+part	O
+
+We	O
+do	O
+nt	O
+show	O
+the	O
+crop	O
+we	O
+like	B-PRD
+
+We	O
+are	O
+having	O
+rose	B-CRP
+plant	I-CRP
+s	O
+
+Ways	O
+to	O
+prevent	O
+brinjal	B-CRP
+trees	O
+from	O
+dying	B-PRD
+
+Waxing	B-PRD
+Ale	O
+Roses	B-CRP
+Solution	O
+Please	O
+
+Waxing	B-PRD
+plant	O
+Thrips	O
+
+Watermillon	B-CRP
+
+Watermelon	B-CRP
+crop	O
+information	O
+
+Watermelon	B-CRP
+
+Water	O
+management	B-PRD
+
+Wall	O
+Inplus	O
+
+virus	O
+virus	O
+hills	O
+to	O
+love	O
+
+Virus	O
+full	O
+
+apple	B-CRP
+are	O
+good	O
+
+corn	B-CRP
+are	O
+damage	B-PRD
+
+cotton	B-CRP
+is	O
+drying	B-PRD
+
+grape	B-CRP
+is	O
+to	O
+sweet	O
+
+potato	B-CRP
+are	O
+small	O
+what	O
+to	O
+do	O
+
+rice	B-CRP
+
+soybean	B-CRP
+
+wheat	B-CRP
+
+apples	B-CRP
+
+corns	B-CRP
+is	O
+spoiling	B-PRD
+
+cotan	B-CRP
+price	B-PRD
+
+grapes	B-CRP
+is	O
+to	O
+good	O
+
+potatos	B-CRP
+
+soyabin	B-CRP
+
+wheat	B-CRP
+
+what	O
+fertiliser	B-PRD
+are	O
+use	O
+for	O
+apple	B-CRP
+and	O
+corn	B-CRP
+
+cottom	B-CRP
+are	O
+spoiled	B-PRD
+
+which	O
+are	O
+medicines	B-PRD
+use	O
+for	O
+weat	B-CRP
+
+weat	B-CRP
+are	O
+drying	B-PRD
+and	O
+damage	B-PRD
+
+potato	B-CRP
+is	O
+good	O
+
+Tell	O
+us	O
+about	O
+brinjal	B-CRP
+crop	O
+how	O
+to	O
+manage	B-PRD
+its	O
+pest	O
+
+Tell	O
+the	O
+pariyas	O
+for	O
+chilli	B-CRP
+mole	O
+disease	B-PRD
+
+Tell	O
+the	O
+correct	O
+location	O
+
+Tell	O
+the	O
+6-year-old	O
+areca	O
+crop	O
+a	O
+solution	O
+to	O
+the	O
+crystal	B-PRD
+loss	I-PRD
+
+Tell	O
+me	O
+which	O
+tomato	B-CRP
+seed	O
+is	O
+coming	O
+to	O
+be	O
+ripening	O
+
+Tell	O
+me	O
+the	O
+solution	O
+to	O
+the	O
+fall	O
+of	O
+areca	B-CRP
+nut	I-CRP
+
+Tell	O
+me	O
+the	O
+solution	O
+to	O
+goa	O
+braid	O
+in	O
+groundnut	B-CRP
+
+Tell	O
+me	O
+the	O
+medicine	B-PRD
+of	O
+sandi	O
+in	O
+the	O
+brinjal	B-CRP
+
+Tell	O
+me	O
+about	O
+the	O
+suction	O
+crop	O
+
+Tell	O
+me	O
+about	O
+pomegranate	B-CRP
+song	O
+
+Tell	O
+maize	O
+dali	O
+thorn	O
+sajai	O
+weed	O
+medicine	B-PRD
+
+Tamada	B-CRP
+
+Tamada	B-CRP
+
+Tomato	B-CRP
+
+Tambaku	B-CRP
+Eli	O
+
+Tomatoes	B-CRP
+are	O
+planted	B-PRD
+on	O
+May	O
+19	O
+and	O
+can	O
+be	O
+saved	O
+on	O
+harvest	O
+day	O
+
+If	O
+there	O
+is	O
+scar	O
+rot	O
+on	O
+the	O
+skin	O
+spray	B-PRD
+these	O
+drugs	O
+
+Tomato	B-CRP
+crop	O
+
+Tamato	B-CRP
+440	O
+hybrid	I-CRP
+How	O
+to	O
+use	O
+npk	O
+fertilizer	B-PRD
+Fro	O
+starting	O
+to	O
+end	O
+
+Tamater	B-CRP
+details	O
+
+Tamater	B-CRP
+trekking	B-PRD
+procedure	O
+in	O
+Telugu	O
+Telugu	O
+
+Downy	O
+'s	O
+Solution	O
+in	O
+Tomatoes	B-CRP
+Fruit	O
+Delight	O
+of	O
+Late	O
+Blight	O
+
+Tamatar	B-CRP
+has	O
+a	O
+problem	O
+
+Which	O
+one	O
+to	O
+spray	B-PRD
+for	O
+Machars	O
+in	O
+tomato	B-CRP
+crop	O
+
+Tomato	B-CRP
+plants	O
+are	O
+20	O
+days	O
+old	O
+due	O
+to	O
+heavy	O
+rain	O
+when	O
+light	O
+sunlight	O
+comes	O
+out	O
+some	O
+of	O
+its	O
+bad	O
+plants	O
+have	O
+been	O
+able	O
+to	O
+die	O
+or	O
+what	O
+should	O
+be	O
+done	O
+like	O
+this	O
+is	O
+happening	O
+in	O
+Shimla	O
+too	O
+
+Tomato	B-CRP
+
+Tamapakakuvinanam	O
+scorpion	O
+can	O
+not	O
+break	O
+
+Table	O
+grapes	B-CRP
+not	O
+available	O
+in	O
+this	O
+app	O
+
+Sweet	B-CRP
+corn	I-CRP
+
+Suwntti	O
+
+Super	O
+
+there	O
+are	O
+Drug	O
+Please	O
+
+Medication	B-PRD
+with	O
+Sukara	O
+
+Suggestions	B-PRD
+and	O
+suggestions	B-PRD
+for	O
+beer	O
+cultivation	O
+
+Suggest	O
+a	O
+solution	O
+that	O
+is	O
+the	O
+outbreak	O
+of	O
+vanu	O
+on	O
+vegetables	O
+as	O
+well	O
+as	O
+soyabean	B-CRP
+
+Suggest	O
+a	O
+solution	O
+for	O
+goddess	O
+disease	B-PRD
+
+Striga	O
+controlled	O
+methods	O
+
+Strawberry	B-CRP
+farming	B-PRD
+Krna	O
+h	O
+please	O
+suggestion	O
+
+stop	O
+wilting	O
+
+Stains	O
+on	O
+chillies	B-CRP
+
+Srivastava	O
+Krishi	O
+Kendra	O
+Karpgaon	O
+Pesticide	B-PRD
+and	O
+Manure	O
+Vendor	O
+🌻🌻🍃🌿☘️🍀🌾	O
+💬🏬	O
+🛒🌾🍀☘️🌿🍃🌻🌻	O
+We	O
+retailer	O
+we	O
+need	O
+PC	O
+to	O
+sell	O
+your	O
+products	O
+provide	O
+the	O
+number	O
+of	O
+a	O
+sales	B-PRD
+person	O
+of	O
+your	O
+sales	O
+staff	O
+who	O
+Distt	O
+Narsinghpur	O
+State	O
+MP	O
+9907710219	O
+
+Sridhar	O
+
+Tell	O
+me	O
+in	O
+Mr.	O
+Aloo	O
+Ke	O
+Naked	O
+
+Sr	O
+Tell	O
+us	O
+about	O
+lihosin	O
+
+Spray	B-PRD
+con	B-CRP
+'s	O
+c	O
+on	O
+paddy	O
+nisare	O
+
+Soybeans	B-CRP
+are	O
+not	O
+of	O
+crop	O
+
+Information	B-PRD
+is	O
+not	O
+being	O
+found	O
+in	O
+the	O
+bare	O
+of	O
+soybean	B-CRP
+crop	O
+
+tell	O
+in	O
+bare	O
+of	O
+soybean	B-CRP
+crop	O
+daily	O
+
+soybean	B-CRP
+
+soybean	B-CRP
+
+Soyabin	B-CRP
+best	O
+tonic	B-PRD
+
+Tonic	B-PRD
+in	O
+Soybean	B-CRP
+
+Soyabean	B-CRP
+'s	O
+janaka	O
+
+Soyabean	B-CRP
+crop	O
+has	O
+increased	B-PRD
+by	O
+30	O
+days	O
+It	O
+has	O
+grown	O
+by	O
+one	O
+and	O
+a	O
+half	O
+feet	O
+How	O
+much	O
+lihosin	O
+should	O
+ever	O
+be	O
+used	O
+
+Soyabean	B-CRP
+
+Soyabean	B-CRP
+
+Soy	O
+Alasanda	O
+Crop	O
+cultivation	O
+method	O
+Yield	O
+types	O
+Say	O
+price	B-PRD
+in	O
+Ero	O
+Ju	O
+market	O
+
+Solution	O
+to	O
+the	O
+fall	O
+of	O
+brinjal	B-CRP
+trees	O
+
+Soil	O
+fertility	B-PRD
+improvement	B-PRD
+methods	B-PRD
+required	O
+in	O
+detail	O
+
+Small	O
+onions	B-CRP
+turn	O
+white	O
+on	O
+their	O
+paper	O
+in	O
+a	O
+crop	O
+what	O
+to	O
+do	O
+with	O
+it	O
+
+Sir	O
+what	O
+to	O
+do	O
+if	O
+our	O
+chillies	B-CRP
+are	O
+not	O
+growing	B-PRD
+
+Sir	O
+what	O
+fertilizershould	B-PRD
+be	O
+added	O
+to	O
+paddy	O
+to	O
+get	O
+more	O
+yield	O
+
+Sir	O
+in	O
+Marchi	B-CRP
+12.61.0	O
+and	O
+13.40.13	O
+you	O
+will	O
+be	O
+able	O
+to	O
+know	O
+whether	O
+it	O
+can	O
+be	O
+done	O
+in	O
+one	O
+place	O
+
+Sir	O
+I	O
+want	O
+pesticides	B-PRD
+and	O
+fungiside	B-PRD
+soyabean	B-CRP
+for	O
+crops	O
+
+Sir	O
+how	O
+to	O
+control	B-PRD
+trips	I-PRD
+in	O
+poly	O
+house	O
+Pets	O
+management	B-PRD
+Which	O
+products	O
+gives	O
+more	O
+yeild	O
+for	O
+colour	O
+capsicum	B-CRP
+
+Sir	O
+please	O
+give	O
+information	B-PRD
+about	O
+Good	O
+pesticide	B-PRD
+for	O
+cauliflower	B-CRP
+
+Sir	O
+onion	B-CRP
+needs	O
+grass	O
+medicine	B-PRD
+what	O
+is	O
+the	O
+dose	O
+of	O
+fish	O
+
+Sir	O
+market	O
+rate	O
+is	O
+visible	O
+what	O
+to	O
+do	O
+
+sir	O
+ji	O
+call	O
+me	O
+
+Sir	O
+I	O
+need	O
+ginger	B-CRP
+crop	O
+guidance	B-PRD
+please	O
+provide	O
+me	O
+
+Sir	O
+I	O
+need	O
+chilli	B-CRP
+crop	O
+nutrient	O
+schedule	O
+please.how	O
+to	O
+control	O
+chilli	B-CRP
+mosaic	O
+virus	O
+
+Sir	O
+headline	O
+fungicide	B-PRD
+is	O
+in	O
+the	O
+market	O
+or	O
+not🙏	O
+
+Sir	O
+in	O
+our	O
+chilli	B-CRP
+field	O
+there	O
+are	O
+too	O
+many	O
+weeds	O
+
+Sir	O
+what	O
+to	O
+do	O
+for	O
+the	O
+development	B-PRD
+of	O
+green	B-CRP
+spinach	I-CRP
+
+Sir	O
+crop	O
+is	O
+not	O
+getting	O
+added	O
+
+Sir	O
+I	O
+want	O
+to	O
+take	O
+your	O
+product	O
+
+sinusitis	O
+
+The	O
+Gaddi	O
+Cole	O
+Brigade	O
+type	O
+in	O
+Shundi	O
+
+Shri	O
+Manji	O
+Downloaded	O
+app	O
+How	O
+to	O
+Add	O
+Crop	O
+thank	O
+you	O
+
+Shoe	O
+treatment	B-PRD
+if	O
+tomato	B-CRP
+plants	O
+go	O
+away	O
+
+Capsicum	B-CRP
+nectar	O
+has	O
+falling	O
+leaves	O
+and	O
+wilts	O
+
+Which	O
+spray	B-PRD
+can	O
+be	O
+used	O
+for	O
+capsicum	B-CRP
+
+Shawanti	O
+flower	O
+contains	O
+bhudi	O
+disease	B-PRD
+What	O
+is	O
+the	O
+solution	O
+
+Setu	O
+irrigation	O
+subsidy	O
+to	O
+be	O
+obtained	O
+
+Yuhudu	O
+must	O
+be	O
+spry	O
+with	O
+yellow	O
+standards	O
+set	O
+
+Yellow	O
+flowering	O
+plant	O
+Plant	O
+chingi	O
+chest	O
+
+Send	O
+me	O
+🌽	O
+corn	B-CRP
+I	O
+am	O
+waiting	O
+
+Send	O
+agri	O
+to	O
+doctor	O
+
+Send	O
+a	O
+shadul	O
+of	O
+the	O
+giga	O
+
+Security	B-PRD
+kit	O
+said	O
+will	O
+be	O
+available	O
+and	O
+what	O
+is	O
+the	O
+price	B-PRD
+
+Second	O
+crop	O
+to	O
+be	O
+selected	O
+
+Which	O
+fungicide	O
+to	O
+use	O
+for	O
+long	O
+term	O
+control	O
+of	O
+Sith	O
+blight	O
+rice	O
+
+Scabs	O
+
+Say	O
+something	O
+about	O
+aman	O
+rice	B-CRP
+
+Say	O
+some	O
+medicines	B-PRD
+for	O
+brinjal	B-CRP
+cultivation	O
+in	O
+the	O
+monsoon	O
+
+sauclab	O
+testing	O
+
+sauce	O
+lab	O
+testing	O
+2	O
+
+Use	O
+mustard	O
+seed	O
+for	O
+40	O
+days	O
+
+mustard	O
+cultivation	O
+information	B-PRD
+
+need	O
+protection	B-PRD
+kit	O
+
+Shakir	O
+Khan	O
+
+Saheb	O
+capsicum	B-CRP
+is	O
+not	O
+in	O
+the	O
+amp	O
+that	O
+
+Rose	B-CRP
+plants	I-CRP
+leaf	O
+block	O
+spot	O
+
+rmich	O
+'s	O
+melting	O
+disease	B-PRD
+
+Rice	B-CRP
+pumpkin	B-CRP
+tree	O
+root	O
+twisted	O
+
+Rice	B-CRP
+does	O
+not	O
+grow	B-PRD
+
+Rice	B-CRP
+cultivation	O
+took	O
+place	O
+on	O
+12.7.2021	O
+Now	O
+give	O
+complete	O
+information	B-PRD
+on	O
+which	O
+day	O
+chemical	B-PRD
+fertilizer	I-PRD
+
+Request	O
+you	O
+to	O
+give	O
+proper	O
+advice	O
+if	O
+there	O
+is	O
+no	O
+piece	O
+of	O
+caste	O
+in	O
+The	O
+Mercury	O
+
+Regent	O
+used	O
+for	O
+onion	B-CRP
+crop	O
+problem	O
+on	O
+white	O
+flies	O
+and	O
+brown	O
+flies	O
+of	O
+pesticides	B-PRD
+Foliar	I-PRD
+spray	B-PRD
+2ml/ltr	O
+but	O
+did	O
+n't	O
+control	O
+the	O
+problem	O
+2	O
+acre	O
+of	O
+onion	B-CRP
+Co5-	O
+40days	O
+old	O
+SathaSivam	O
+S.	O
+velayuthampalayam	O
+Avinasipalayam	O
+Koduvoi	O
+Tirupur	O
+9944093353	O
+
+red	O
+gram	O
+
+Recommend	O
+manure	O
+for	O
+Sugandharaja	O
+
+Rain	O
+and	O
+mandu	O
+spray	B-PRD
+cheyavacha	O
+
+quality	O
+banana	B-CRP
+cultivation	O
+
+Fat	O
+village	O
+is	O
+sleeping	O
+in	O
+love	O
+please	O
+tell	O
+family	O
+Nashik	O
+claim	O
+
+Fat	O
+village	O
+in	O
+love	O
+is	O
+being	O
+kindly	O
+told	O
+above	O
+feeding	O
+weed	O
+drug	B-PRD
+
+Provide	O
+information	B-PRD
+about	O
+cotton	B-CRP
+and	O
+send	O
+agri	O
+number	O
+
+Provide	O
+bitter	B-CRP
+gourd	I-CRP
+cultivation	O
+method	O
+please	O
+
+Production	B-PRD
+help	O
+test	O
+
+Production	B-PRD
+help	O
+query	O
+
+necessary	O
+product	O
+
+The	O
+product	O
+is	O
+m.	O
+R.	O
+P	O
+
+Prod	O
+test	O
+
+Prices	B-PRD
+are	O
+not	O
+showing	O
+
+Price	B-PRD
+of	O
+minarets	O
+
+Price	B-PRD
+lihocin	O
+
+Priaxor	O
+fungiside	B-PRD
+uses	O
+for	O
+soyabeen	B-CRP
+
+Prevention	B-PRD
+of	O
+white	I-PRD
+mosquito	I-PRD
+
+Prevention	B-PRD
+of	O
+chilli	B-CRP
+seedling	B-PRD
+wrinkles	O
+
+powder	O
+mildew	O
+in	O
+tomato	B-CRP
+
+Should	O
+be	O
+compatible	O
+
+Potato	B-CRP
+main	O
+1	O
+spray	B-PRD
+main	O
+Kya	O
+daalen	O
+
+Potato	B-CRP
+is	O
+1	O
+month	O
+15	O
+days	O
+old	O
+Which	O
+medicine	B-PRD
+to	O
+add	O
+
+Potato	B-CRP
+
+Popcorn	B-CRP
+
+born	O
+
+Pomegranate	B-CRP
+seeds	O
+are	O
+not	O
+recorded	O
+
+Pomegranate	B-CRP
+details	O
+plz	O
+
+Pomegranate	B-CRP
+crop	O
+is	O
+not	O
+coming	O
+to	O
+see	O
+only	O
+tomato	B-CRP
+shows	O
+
+Poison	B-PRD
+
+plz	O
+ad	O
+to	O
+banana	B-CRP
+farming	B-PRD
+
+Pls	O
+give	O
+Greenhouse	B-CRP
+Cucumber	I-CRP
+best	O
+fungicide	B-PRD
+for	O
+Downy	O
+mildew	O
+powdery	O
+mildew	O
+
+Please	O
+tell	O
+me	O
+which	O
+pesticide+pesticide	B-PRD
+should	O
+be	O
+used	O
+for	O
+beans🙏🙏🙏	O
+
+Please	O
+tell	O
+me	O
+what	O
+time	O
+and	O
+how	O
+much	O
+lihosin	O
+in	O
+potato	B-CRP
+is	O
+showing	O
+in	O
+PPM	O
+on	O
+your	O
+app	O
+Tell	O
+me	O
+the	O
+time	O
+required	O
+for	O
+good	O
+potato	B-CRP
+yield	O
+and	O
+how	O
+often	O
+to	O
+use	O
+everything	O
+
+Please	O
+tell	O
+cabbage	O
+cauliflower	B-CRP
+broccoli	O
+which	O
+pesticide	B-PRD
+fungicide	B-PRD
+
+Please	O
+tell	O
+about	O
+paraclosrobin	B-PRD
+
+Please	O
+suggest	O
+for	O
+tamato	O
+crop	O
+pesticides	O
+
+Please	O
+suggest	O
+for	O
+mud	O
+inspection	O
+
+Please	O
+recommend	O
+medicine	B-PRD
+for	O
+double	O
+root	O
+in	O
+paddy	O
+
+Please	O
+let	O
+me	O
+know	O
+about	O
+the	O
+products	O
+I	O
+need	O
+
+Please	O
+inform	O
+about	O
+chanda	B-CRP
+'s	O
+scratches	O
+and	O
+its	O
+market	O
+and	O
+the	O
+assistance	O
+it	O
+receives	O
+from	O
+the	O
+government	O
+
+Please	O
+help	O
+I	O
+am	O
+not	O
+able	O
+to	O
+see	O
+alerts	O
+
+Please	O
+help	O
+Nayan	O
+
+Please	O
+help	O
+Nayan	O
+
+Please	O
+help	O
+me	O
+for	O
+my	O
+tomato	B-CRP
+
+Please	O
+help	O
+Ginger	B-CRP
+proof	O
+
+Please	O
+help	O
+Ginger	B-CRP
+craft	O
+
+Please	O
+explain	O
+how	O
+to	O
+add	O
+the	O
+crop	O
+
+Please	O
+Give	O
+information	B-PRD
+like	O
+garlic	B-CRP
+cultivation	O
+improved	B-PRD
+varieties	O
+seed	O
+quantity	O
+where	O
+to	O
+find	O
+seeds	O
+etc	O
+
+Planning	B-PRD
+should	O
+be	O
+given	O
+in	O
+the	O
+context	O
+of	O
+cotton	B-CRP
+crops	O
+
+Pla	O
+edit	O
+my	O
+name	O
+
+Pkm	O
+1	O
+Bagya	O
+
+Pindhi	O
+dying	O
+in	O
+hire	O
+plant	O
+
+The	O
+app	O
+does	O
+not	O
+accept	O
+crop	O
+information	B-PRD
+
+Crop	O
+mercury	O
+is	O
+not	O
+yet	O
+available	O
+
+Information	B-PRD
+about	O
+the	O
+crop	O
+statement	O
+
+Photos	O
+of	O
+the	O
+crop	O
+can	O
+not	O
+be	O
+uploaded	O
+Therefore	O
+the	O
+information	B-PRD
+about	O
+the	O
+crop	O
+can	O
+not	O
+be	O
+conveyed	O
+to	O
+you	O
+
+How	O
+to	O
+do	O
+Fasal	O
+Panjya	O
+
+What	O
+is	O
+the	O
+remedy	O
+for	O
+this	O
+
+Pea	O
+Information	B-PRD
+
+Payj	O
+me	O
+kon	O
+si	O
+spry	B-PRD
+kre	O
+
+Pattili	O
+purugu	O
+vundhi	O
+
+The	O
+clamp	O
+does	O
+not	O
+grow	O
+and	O
+falls	O
+off	O
+
+I	O
+have	O
+to	O
+take	O
+medicine	B-PRD
+to	O
+prevent	O
+my	O
+grandson	O
+from	O
+getting	O
+stuck	O
+
+I	O
+have	O
+to	O
+take	O
+medicine	B-PRD
+
+Cotton	B-CRP
+AC2	O
+soils	O
+become	O
+plant-grown	O
+almonds	O
+వడలి	O
+
+Pati	O
+has	O
+a	O
+key	O
+scratch	O
+
+Park	O
+ad	O
+curriculum	B-CRP
+na	O
+thi	O
+
+Papaya	B-CRP
+crop	O
+to	O
+be	O
+added	O
+
+Papaya	B-CRP
+
+paliram	O
+
+No	O
+crop	O
+
+Growing	O
+crop	O
+
+Add	O
+crop	O
+groundnet	B-CRP
+
+I	O
+was	O
+married	O
+to	O
+Jodi	O
+Chotta	O
+If	O
+it	O
+is	O
+corrosive	O
+treat	O
+it	O
+
+Paddikalenshaka	O
+
+Paddy	O
+stemborer	O
+
+Paddy	O
+not	O
+agreed	O
+way	O
+
+Paddy	O
+has	O
+been	O
+pierced	O
+with	O
+stem	O
+borer	O
+which	O
+medicine	B-PRD
+is	O
+dalaya	O
+
+Paddy	O
+and	O
+weat	B-CRP
+crops	O
+
+Paddy	O
+
+Paddy	O
+
+Paddy	O
+
+Over	O
+rain	O
+situation	O
+for	O
+onion	B-CRP
+nursury	O
+
+Our	O
+rice	O
+tree	O
+is	O
+turned	O
+red	O
+There	O
+is	O
+a	O
+lot	O
+of	O
+herbs	O
+
+Our	O
+crop	O
+is	O
+🍎	O
+Apple	B-CRP
+
+Our	O
+crop	O
+is	O
+groundnut	B-CRP
+and	O
+it	O
+does	O
+n't	O
+come	O
+to	O
+this	O
+
+Other	O
+crops	O
+not	O
+added	O
+
+Only	O
+tomato	B-CRP
+crop	O
+show	O

@@ -1,0 +1,295 @@
+Vincenzo	O
+
+Wear	B-PRD
+your	O
+clothes	O
+
+Price	B-PRD
+Dressing	B-PRD
+150ml	O
+
+Very	O
+nicely	O
+development	B-PRD
+I	O
+wanted	O
+to	O
+know	O
+best	O
+pesticides	B-PRD
+for	O
+Tomato	B-CRP
+
+Viru	O
+God	O
+Maha	O
+
+Vari	O
+Panta	O
+Sonipat	O
+Dainik	O
+Karma	O
+Imiti	O
+
+You	O
+can	O
+
+Very	O
+fast	O
+
+Answer	O
+what	O
+a	O
+dairy	B-CRP
+plant	I-CRP
+grows	O
+in	O
+an	O
+eggplant	B-CRP
+garden	O
+
+Wamu	O
+and	O
+Panaunta	O
+
+Valor	O
+has	O
+a	O
+swallow	O
+
+V	O
+need	O
+help	O
+from	O
+u	O
+sir	O
+
+Please	O
+use	O
+
+Ty	O
+
+Trieste	O
+
+Trips	B-PRD
+in	O
+mirchi	B-CRP
+
+Trips	B-PRD
+control	B-PRD
+
+Treatment	B-PRD
+of	O
+Late	O
+blight	O
+in	O
+tomato	B-CRP
+and	O
+brinjil	B-CRP
+in	O
+shoot	O
+boror	O
+
+Top	O
+of	O
+onion	B-CRP
+burns	B-PRD
+up	O
+
+Tomato	B-CRP
+is	O
+10	O
+days	O
+what	O
+to	O
+spray	B-PRD
+what	O
+is	O
+15	O
+days	O
+is	O
+ok	O
+
+Tomato	B-CRP
+Specific	B-PRD
+Information	O
+
+Tomato	B-CRP
+potatoes	B-CRP
+potato	B-CRP
+
+Tomato	B-CRP
+late	O
+blight	O
+controll	B-PRD
+
+Tomato	B-CRP
+flower	I-CRP
+drop	B-PRD
+what	O
+the	O
+solution	B-PRD
+
+Tomato	B-CRP
+Spot	O
+Potion	O
+
+Tomato	B-CRP
+crop	O
+protection	B-PRD
+
+Which	O
+medicine	B-PRD
+is	O
+best	O
+for	O
+tomato	B-CRP
+tuberculosis	B-PRD
+
+Tomato	B-CRP
+Arli	B-PRD
+blight	I-PRD
+and	O
+late	B-PRD
+blight	I-PRD
+
+tomato	B-CRP
+
+tomato	B-CRP
+
+tomato	B-CRP
+
+tomato	B-CRP
+
+To	O
+sleep	O
+for	O
+chana	B-CRP
+ma	O
+admonition	B-PRD
+
+To	O
+reduce	B-PRD
+soyabean	B-CRP
+growth	B-PRD
+
+To	O
+or	O
+
+To	O
+move	O
+forward	B-PRD
+
+to	O
+grow	B-PRD
+Onion	B-CRP
+
+To	O
+cure	O
+the	O
+disease	B-PRD
+to	O
+increase	B-PRD
+the	O
+mercury	O
+
+To	O
+control	O
+the	O
+disease	B-PRD
+of	O
+the	O
+leprosy	O
+in	O
+garlic	B-CRP
+
+Tip	O
+on	O
+the	O
+loam	O
+Tell	O
+us	O
+the	O
+solution	B-PRD
+
+Thrips	O
+Mites	O
+control	B-PRD
+
+Thrips	O
+control	B-PRD
+
+this	O
+time	O
+stem	O
+fly	O
+in	O
+soybeans	B-CRP
+How	O
+to	O
+Prevent	B-PRD
+
+This	O
+app	O
+release	B-PRD
+for	O
+time	O
+pass	O
+
+This	O
+app	O
+is	O
+not	O
+working	B-PRD
+properly	B-PRD
+
+This	O
+app	O
+is	O
+not	O
+giving	B-PRD
+information	O
+about	O
+banana	B-CRP
+farming	B-PRD
+
+This	O
+app	O
+is	O
+not	O
+aware	O
+of	O
+chillies	B-CRP
+being	O
+shown	O
+like	O
+tomatoes	B-CRP
+are	O
+happening	O
+
+This	O
+app	O
+does	O
+not	O
+know	O
+about	O
+grape	B-CRP
+crop	O
+
+There	O
+'s	O
+a	O
+blight	O
+Which	O
+Medicine.Spray	B-PRD
+
+There	O
+is	O
+no	O
+soybean	B-CRP
+crop	O
+on	O
+the	O
+up	O
+And	O
+cotton	B-CRP
